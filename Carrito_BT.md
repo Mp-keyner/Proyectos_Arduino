@@ -18,3 +18,5 @@
  ### **Recomendaciones :**
  el modulo **HC-06** y otros modulos necesitan estar conectados al TX y RX del micro controlador (Arduino UNO, Arduino NANO..) por lo cual le recomiendo  
  ![](ko.jpg)
+
+ # goeihdihfihf4ihf
